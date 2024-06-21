@@ -12,15 +12,13 @@ I just want to promote this popular game in China to the world.
 
 PVZHE(Plants Vs. Zombies Hybrid Edition) is a PVZ mod developed by Chinese player [潜艇伟伟迷](https://space.bilibili.com/97213827), This game is now very popular in China.
 
-Here's the official promotional video:
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1354694395&bvid=BV15z42127up&cid=1548412426&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+Here's the official promotional video: https://www.bilibili.com/video/BV15z42127up
 
 As you can see, this game is a lot of fun, so please support the original author!
 
 ### Download PVZHE-English
 
-You can download the English version at [Release page](https://).
+You can download the English version at [Release page](https://github.com/innovateplus/PVZHE-English/releases).
 
 To play the game you should unzip the zip file and run PlantsVsZombies.exe
 
@@ -63,7 +61,7 @@ PVZHE(植物大战僵尸杂交版) 是由 [潜艇伟伟迷](https://space.bilibi
 
 ### 下载 PVZHE-English
 
-在 [Release page](https://) 下载PVZHE.
+在 [Release page](https://github.com/innovateplus/PVZHE-English/releases) 下载PVZHE.
 
 解压缩zip文件并运行PlantsVsZombies.exe
 
